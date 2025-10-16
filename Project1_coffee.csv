@@ -1,0 +1,635 @@
+Country,RegionDetail,Altitude,Year,ProcessingMethod,BeanColor,BagsProduced,Rating
+Mexico,santa catarina juquila,1300,2012,Washed / Wet,Green,10,82.33
+Colombia,huila,1800,2012,Washed / Wet,Blue-Green,250,82.67
+Mexico,tlatlauquitepec,800,2012,Washed / Wet,Green,10,71.08
+Uganda,eastern,1700,2013,Natural / Dry,Green,320,81
+Colombia,huila,1775,2013,Washed / Wet,Green,120,83
+Colombia,huila,1750,2012,Washed / Wet,Green,250,84.17
+Mexico,veracruz,100,2012,Washed / Wet,Green,100,80.83
+Mexico,xalapa,1170,2012,Washed / Wet,Green,10,82.42
+Mexico,veracruz,1100,2012,Washed / Wet,Green,250,82.25
+Mexico,"la concordia, chiapas",1300,2013,Washed / Wet,Green,250,78.92
+Mexico,"la concordia, chiapas",1300,2013,Washed / Wet,Green,250,82.33
+Mexico,"siltepec el triunfo, chiapas, mexico",1550,2014,Washed / Wet,Green,280,81.83
+Brazil,grama valley,1100,2012,Natural / Dry,Green,31,85
+Mexico,veracruz,1100,2017,Washed / Wet,Green,240,80.92
+Nicaragua,matagalpa,1050,2013,Washed / Wet,Green,275,80.92
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,77.83
+Uganda,kasese,1700,2012,Washed / Wet,Green,320,84
+Colombia,huila,1775,2015,Washed / Wet,Green,180,83.5
+Nicaragua,"dipilto, nueva segovia",1200,2016,Washed / Wet,Green,275,81.17
+Brazil,alta paulista (sao paulo),695,2016,Natural / Dry,Green,500,81.08
+Colombia,santander,1500,2016,Washed / Wet,Blue-Green,250,84.58
+Brazil,south of minas,1200,2011,Natural / Dry,Green,4,84.92
+Colombia,la plata,1775,2011,Washed / Wet,Blue-Green,121,83
+Mexico,"motozintla, chiapas",1200,2012,Washed / Wet,Green,10,77.17
+Guatemala,atitlan,1400,2013,Washed / Wet,Green,250,83.5
+Guatemala,huehuetenango,1676,2015,Washed / Wet,Green,275,82.33
+Guatemala,el progreso,157,2017,Washed / Wet,Green,20,82.42
+Colombia,cauca,1700,2013,Washed / Wet,Green,270,84
+"Tanzania, United Republic Of",karatu arusha,1600,2014,Washed / Wet,Green,37,82.5
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,78.75
+Uganda,"kasese, mt. rwenzori",1473,2015,Washed / Wet,Green,310,83
+Guatemala,oriente,1219,2014,Washed / Wet,Green,250,84.58
+Costa Rica,tarrazu,1150,2015,Washed / Wet,Blue-Green,15,84.67
+Mexico,"coatepec, coatepec",1100,2012,Washed / Wet,Blue-Green,127,79.5
+Mexico,veracruz,1800,2012,Washed / Wet,Green,25,71
+Uganda,eastern,1650,2013,Natural / Dry,Green,1,85.92
+Mexico,la cumbre,1400,2012,Washed / Wet,Green,100,82.92
+Honduras,marcala,1450,2014,Washed / Wet,Green,275,69.17
+Indonesia,"temanggung, indonesia",1200,2016,Washed / Wet,Green,2,84.67
+Costa Rica,tres rios,1300,2015,Washed / Wet,Blue-Green,275,81.17
+Colombia,huila,1775,2012,Washed / Wet,Green,100,82.25
+Guatemala,oriente,1219,2014,Natural / Dry,Green,250,84
+Costa Rica,san ramon,1300,2014,Washed / Wet,Green,250,87.17
+Mexico,huautla de jimenez,1280,2012,Washed / Wet,Blue-Green,18,75.17
+Colombia,pitalito,1000,2013,Natural / Dry,Green,250,83.33
+Guatemala,antigua,1500,2015,Washed / Wet,Green,150,83.17
+Ethiopia,oromia,1900,2014,Washed / Wet,Green,320,85.83
+Colombia,cundinamarca,1799,2016,Washed / Wet,Green,275,83.08
+"Tanzania, United Republic Of",ngorogoro,1600,2014,Washed / Wet,Blue-Green,1,81.75
+Colombia,huila,1750,2012,Washed / Wet,Green,250,84.58
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,81.83
+Nicaragua,jinotega,1000,2015,Natural / Dry,Blue-Green,275,84.17
+Ethiopia,guji-hambela,2075,2014,Washed / Wet,Green,300,88.83
+Costa Rica,west valley,1200,2014,Washed / Wet,Green,275,84.67
+Uganda,"kasese, mt. rwenzori",1645,2015,Natural / Dry,Green,325,83
+Guatemala,orient,1200,2013,Washed / Wet,Green,250,80.83
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,83.42
+Colombia,huila,1775,2014,Washed / Wet,Green,138,84
+Thailand,thailand,800,2013,Washed / Wet,Green,1,79.75
+Honduras,intibuca,1350,2014,Natural / Dry,Green,275,78
+Mexico,talpa de allende,1200,2012,Washed / Wet,Green,15,81.08
+Myanmar,"doe kwin, pyin oo lwin",3845,2015,Washed / Wet,Green,1,80
+Guatemala,oriente,1219,2014,Washed / Wet,Green,250,78.58
+Philippines,"benguet, mountain province",1000,2012,Washed / Wet,Green,1,75.83
+Honduras,comayagua,1400,2017,Natural / Dry,Green,275,82.75
+Guatemala,oriente,1219,2016,Washed / Wet,Green,50,82.5
+Honduras,central region,1500,2016,Washed / Wet,Green,275,84.33
+Mexico,"la concordia, chiapas",1400,2012,Washed / Wet,Blue-Green,250,84.25
+Guatemala,huehuetenango,1770,2014,Natural / Dry,Green,36,85.33
+Uganda,eastern,1650,2013,Natural / Dry,Green,1,82.58
+Mexico,veracruz,1100,2017,Washed / Wet,Green,200,81.42
+El Salvador,apaneca,1500,2013,Natural / Dry,Blue-Green,275,84.17
+Myanmar,ywar ngan township,1219,2015,Washed / Wet,Green,1,81.5
+Colombia,antioquia,1300,2013,Washed / Wet,Green,250,82.33
+Guatemala,oriente,1219,2016,Washed / Wet,Blue-Green,250,83.5
+Guatemala,oriente,1219,2016,Washed / Wet,Green,25,79.67
+"Tanzania, United Republic Of",mbeya,1877,2014,Washed / Wet,Green,114,81.92
+Brazil,south of minas,944,2016,Natural / Dry,Green,230,82
+Colombia,huila,1750,2012,Washed / Wet,Blue-Green,250,83.17
+Honduras,marcala,1450,2014,Washed / Wet,Green,275,69.33
+Mexico,veracruz,1300,2012,Washed / Wet,Green,250,79.83
+Mexico,chiapas,1300,2013,Washed / Wet,Green,200,83.25
+United States,yauco region,853,2013,Washed / Wet,Green,18,81.08
+Guatemala,huehuetenango,1706,2015,Washed / Wet,Green,275,84
+Mexico,chiapas,1300,2015,Washed / Wet,Blue-Green,275,82.92
+Indonesia,east java,1400,2012,Washed / Wet,Green,10,83.67
+Colombia,santander,1800,2013,Natural / Dry,Green,40,82.83
+Thailand,thailand,800,2014,Washed / Wet,Blue-Green,1,83.67
+"Tanzania, United Republic Of",ngorogoro,1600,2014,Washed / Wet,Green,1,82.08
+Ethiopia,"snnp/kaffa zone,gimbowereda",1822,2014,Natural / Dry,Green,50,88.25
+"Tanzania, United Republic Of",nkure- meru,1400,2015,Washed / Wet,Green,5,83.5
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,75.58
+Costa Rica,central valley,1300,2013,Washed / Wet,Green,250,82.58
+Honduras,marcala,1400,2015,Washed / Wet,Green,275,81.83
+Guatemala,norte,3280,2016,Washed / Wet,Green,120,81
+Colombia,huila,1750,2012,Washed / Wet,Green,250,83.33
+Mexico,pochutla,1050,2012,Washed / Wet,Green,250,79.75
+Mexico,la yerba,1296,2014,Natural / Dry,Green,11,82.67
+Uganda,bulambuli eastern region,1600,2013,Washed / Wet,Green,320,85.5
+Uganda,eastern,1800,2014,Washed / Wet,Blue-Green,84,83.17
+Malawi,mzuzu,1422,2014,Washed / Wet,Blue-Green,12,81.42
+Mexico,san miguel del puerto,1100,2012,Washed / Wet,Green,256,80
+Guatemala,oriente,1219,2014,Washed / Wet,Green,275,78
+Mexico,motozintla,1500,2012,Washed / Wet,Green,250,81.25
+Haiti,"thiotte, haiti",1280,2012,Washed / Wet,Green,2,83.33
+Guatemala,huehuetenango,1383,2014,Natural / Dry,Green,275,80.58
+Honduras,marcala,1400,2015,Washed / Wet,Green,275,81.42
+Guatemala,oriente,1219,2014,Washed / Wet,Green,275,79.42
+Mexico,fln mirador,1450,2012,Washed / Wet,Blue-Green,10,82.42
+Rwanda,gicumbi,1900,2015,Washed / Wet,Blue-Green,150,82.83
+Kenya,kiambu,1860,2013,Washed / Wet,Green,1,86
+Colombia,huila,1800,2013,Washed / Wet,Blue-Green,275,85.92
+Mexico,"sierra norte yajalon, chiapas",1000,2014,Washed / Wet,Green,280,70.75
+Panama,boquete,1600,2017,Washed / Wet,Blue-Green,37,85.83
+Costa Rica,tarrazu,1850,2013,Washed / Wet,Green,275,81.67
+Costa Rica,occidental,1200,2014,Washed / Wet,Green,250,77.92
+Guatemala,oriente,1219,2014,Washed / Wet,Green,275,80.5
+Honduras,ocotepeque,1650,2017,Washed / Wet,Green,15,79.17
+Guatemala,norte,3280,2016,Washed / Wet,Green,130,84.17
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,83.83
+Guatemala,santa rosa,1219,2017,Washed / Wet,Green,50,79.17
+Colombia,huila,1775,2015,Washed / Wet,Green,252,84.92
+Guatemala,antigua,1500,2014,Washed / Wet,Green,26,83
+Costa Rica,tarrazu,1850,2015,Washed / Wet,Blue-Green,100,82.33
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,81.67
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,82.5
+Guatemala,oriente,1219,2015,Washed / Wet,Green,80,82.83
+Mexico,veracruz,1170,2012,Washed / Wet,Green,20,84.25
+Brazil,high mogiana,1000,2014,Natural / Dry,Green,305,83
+Guatemala,"aldea xeucalvitz, ixil region, quiche department",1550,2014,Washed / Wet,Blue-Green,1,84.08
+"Tanzania, United Republic Of",arusha,1400,2012,Washed / Wet,Green,300,82.83
+Colombia,huila,1750,2013,Washed / Wet,Blue-Green,250,82.17
+Kenya,kenya,250,2014,Washed / Wet,Blue-Green,300,83.17
+Mexico,chiapas,1300,2013,Washed / Wet,Green,380,79.75
+Colombia,huila,1750,2012,Washed / Wet,Green,250,82.25
+Costa Rica,central valley,1300,2013,Washed / Wet,Green,250,83.83
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,84.17
+Peru,san ignacio,1200,2014,Washed / Wet,Green,275,77
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,82.42
+Mexico,"motozintla, chiapas",850,2012,Washed / Wet,Green,10,78
+Colombia,huila,1750,2013,Natural / Dry,Blue-Green,250,82.92
+Brazil,south of minas,894,2016,Natural / Dry,Green,320,83
+Colombia,huila,1900,2013,Washed / Wet,Green,250,83.67
+"Tanzania, United Republic Of",mbinga,1500,2014,Washed / Wet,Green,20,81.67
+Colombia,huila,442,2015,Natural / Dry,Green,250,84.25
+Kenya,blend,1200,2012,Washed / Wet,Green,300,84
+Thailand,thailand,800,2013,Washed / Wet,Green,1,82
+Honduras,marcala,1350,2015,Washed / Wet,Green,275,81.33
+Colombia,huila,442,2017,Washed / Wet,Green,275,83.75
+Colombia,huila,1775,2014,Washed / Wet,Green,100,83.75
+Colombia,pitalito,1000,2013,Natural / Dry,Green,250,83
+Honduras,marcala,1350,2015,Washed / Wet,Green,275,82.25
+Mexico,la concordia,1550,2012,Washed / Wet,Green,250,81.75
+Kenya,nyeri,1800,2014,Washed / Wet,Green,150,84.75
+Mexico,tepictla,1250,2012,Washed / Wet,Green,100,81.75
+Guatemala,huehuetenango,1731,2013,Washed / Wet,Green,250,85.5
+Mexico,menglian,850,2012,Washed / Wet,Green,43,75
+Mexico,hustusco,1350,2012,Washed / Wet,Green,56,84.5
+Honduras,comayagua,1400,2017,Washed / Wet,Green,274,81.92
+Costa Rica,tarrazu,1850,2015,Washed / Wet,Blue-Green,275,83.83
+Guatemala,jalapa,1524,2014,Washed / Wet,Green,250,82.33
+Mexico,tuxtla gutierrez,1700,2012,Washed / Wet,Blue-Green,100,84.33
+Mexico,oaxaca,1250,2012,Washed / Wet,Green,50,82.58
+Costa Rica,occidental,1200,2014,Washed / Wet,Green,250,81.5
+Ethiopia,sidamo,1550,2013,Natural / Dry,Green,50,84
+Ecuador,"province of manabi, ecuador",800,2013,Natural / Dry,Blue-Green,1,83.83
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,81.42
+Colombia,antioquia,1450,2013,Washed / Wet,Green,250,82.92
+Mexico,"la concordia, chiapas",1400,2013,Washed / Wet,Green,310,79.67
+Guatemala,huehuetenango,1356,2014,Washed / Wet,Green,275,83.67
+"Tanzania, United Republic Of","oldeani , mongola",1800,2014,Washed / Wet,Green,100,81.58
+Guatemala,antigua,1500,2014,Washed / Wet,Green,250,83.42
+Vietnam,don duong,1040,2012,Natural / Dry,Green,1,82.08
+Thailand,thailand,800,2014,Washed / Wet,Blue-Green,1,83.17
+Myanmar,ywar ngan,4001,2015,Washed / Wet,Green,1,81.83
+Mexico,san isidro,700,2012,Washed / Wet,Green,15,83.17
+Kenya,nyeri,1754,2017,Washed / Wet,Green,27,82.83
+Mexico,xicotepec de juarez,1150,2012,Washed / Wet,Green,10,82.42
+Colombia,guayata,1600,2016,Washed / Wet,Green,43,82.42
+Colombia,cundinamarca,2136,2012,Natural / Dry,Green,250,85.08
+Guatemala,oriente,1402,2012,Washed / Wet,Green,250,83.17
+Mexico,"la concordia, chiapas",1400,2012,Washed / Wet,Green,250,81.67
+Uganda,mt. rwenzori,1600,2012,Washed / Wet,Green,320,84.17
+Honduras,comayagua,1350,2014,Natural / Dry,Green,275,81.83
+Malawi,mzuzu,1442,2014,Washed / Wet,Blue-Green,29,82.75
+Guatemala,el progreso,157,2017,Washed / Wet,Green,25,82.75
+Guatemala,solola,1565,2016,Washed / Wet,Green,377,84.17
+Guatemala,antigua,1500,2014,Washed / Wet,Green,250,82.83
+"Tanzania, United Republic Of","ilomba vilage, mbozi",1700,2013,Washed / Wet,Green,10,81.67
+Honduras,marcala,1450,2016,Washed / Wet,Blue-Green,275,83.17
+Nicaragua,jinotega,1250,2017,Washed / Wet,Green,275,80
+Panama,boquete,1100,2012,Washed / Wet,Green,300,82.75
+Mexico,canoas,900,2012,Washed / Wet,Green,250,82.25
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,84.17
+Mexico,santa maria sitepec,1642,2012,Washed / Wet,Green,40,81.08
+"Tanzania, United Republic Of",kilimanjaro,1800,2014,Washed / Wet,Green,300,83.17
+Uganda,west nile,1400,2013,Natural / Dry,Green,320,83.75
+Brazil,south of minas,894,2016,Natural / Dry,Green,320,82.08
+Uganda,eastern,1800,2015,Washed / Wet,Green,20,83.42
+Colombia,huila,1775,2012,Washed / Wet,Green,275,83.58
+Guatemala,antigua,1500,2016,Washed / Wet,Green,250,83.17
+China,dehong prefecture,1600,2015,Washed / Wet,Green,3,83.17
+Mexico,veracruz,1250,2012,Washed / Wet,Blue-Green,250,82.83
+Mexico,coatepec,1200,2012,Washed / Wet,Green,250,83
+Mexico,veracruz,1300,2017,Washed / Wet,Green,200,83.92
+Mexico,"motozintla, chiapas",1100,2012,Washed / Wet,Green,10,79.92
+China,yunnan,1450,2015,Washed / Wet,Green,3,87.25
+Colombia,huila,1750,2013,Washed / Wet,Green,250,82.33
+Mexico,veracruz,1350,2012,Washed / Wet,Green,26,82.42
+Honduras,comayagua,1396,2017,Washed / Wet,Green,275,82.33
+Guatemala,antigua,1500,2012,Washed / Wet,Green,275,82.67
+Mexico,coatepec,1250,2012,Washed / Wet,Green,20,74.83
+"Tanzania, United Republic Of",karatu arusha,1700,2014,Washed / Wet,Green,93,82.67
+Mexico,"sierra fraylesca, chiapas",1400,2014,Washed / Wet,Green,280,80
+Malawi,mzuzu,1599,2014,Washed / Wet,Green,15,81.5
+Uganda,mt elgon,1650,2013,Washed / Wet,Green,1,82.67
+Uganda,"sipi, mt elgon",1650,2012,Washed / Wet,Blue-Green,1,86
+"Tanzania, United Republic Of","ilomba vilage, mbozi",1700,2014,Washed / Wet,Green,10,82.17
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,83.17
+Brazil,mogiana,950,2012,Natural / Dry,Green,100,83.17
+Colombia,huila,1750,2012,Washed / Wet,Green,250,83
+Papua New Guinea,eastern highlands province,1700,2012,Washed / Wet,Blue-Green,7,85.75
+China,yunnan,1650,2015,Washed / Wet,Green,3,83.75
+Mexico,veracruz,1000,2012,Washed / Wet,Green,12,79.25
+Guatemala,nuevo oriente,1550,2015,Washed / Wet,Green,275,83
+Nicaragua,jinotega,1250,2016,Washed / Wet,Green,275,83.67
+Thailand,thailand,800,2014,Washed / Wet,Green,1,82.58
+Brazil,vale da grama,1300,2011,Natural / Dry,Green,29,86.42
+Honduras,comayagua,1400,2017,Washed / Wet,Green,275,82.5
+Colombia,huila,1850,2014,Washed / Wet,Green,275,83.5
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,82.75
+Honduras,marcala,1400,2015,Washed / Wet,Green,275,80.17
+Guatemala,santa rosa,1219,2017,Washed / Wet,Green,50,81.5
+Colombia,huila,1900,2013,Washed / Wet,Green,250,82
+Mexico,ocosingo,1200,2012,Washed / Wet,Green,100,75.17
+Guatemala,santa rosa,1500,2017,Washed / Wet,Green,275,80.5
+Guatemala,atitlan,1524,2012,Washed / Wet,Green,275,83.5
+Thailand,thailand,800,2014,Washed / Wet,Blue-Green,1,82.17
+China,yunnan,1700,2015,Natural / Dry,Green,3,85.33
+"Tanzania, United Republic Of",arusha,1525,2014,Washed / Wet,Green,1,81
+Guatemala,oriente,1402,2012,Washed / Wet,Green,250,83.5
+Guatemala,"sacatepequez, guatemala",1524,2012,Washed / Wet,Green,250,83.67
+Myanmar,ywar ngan,3825,2015,Washed / Wet,Green,1,80.75
+Mexico,yajalon,1400,2012,Washed / Wet,Green,15,81.67
+Honduras,marcala,1450,2014,Washed / Wet,Green,275,84.75
+China,yunnan,1680,2015,Washed / Wet,Green,3,84.5
+Costa Rica,central valley,1300,2014,Washed / Wet,Green,250,81.17
+Mexico,petatlan,1248,2012,Natural / Dry,Green,15,82.92
+China,yunnan,1100,2015,Washed / Wet,Green,3,83.58
+Haiti,"department d'artibonite , haiti",350,2012,Natural / Dry,Blue-Green,1,67.92
+Mexico,la concordia,1550,2012,Washed / Wet,Green,250,79.5
+Guatemala,antigua,1500,2016,Washed / Wet,Green,230,84.25
+Ethiopia,guji-hambela,2075,2014,Washed / Wet,Green,300,90.58
+Colombia,guayata,1500,2017,Washed / Wet,Green,129,82.92
+Mexico,yajalon,1450,2012,Washed / Wet,Green,53,79.17
+Colombia,cauca,1700,2013,Washed / Wet,Green,250,84.25
+Mexico,chiapas,1700,2013,Washed / Wet,Green,275,74.67
+Honduras,occidental,1400,2014,Washed / Wet,Green,275,82
+Colombia,huila,1775,2012,Washed / Wet,Green,50,84.92
+Mexico,sierra madre occidental,1600,2017,Washed / Wet,Blue-Green,50,83.25
+Costa Rica,west valley,1300,2014,Washed / Wet,Blue-Green,250,85.33
+Ethiopia,guji-hambela,2075,2014,Washed / Wet,Green,300,89.92
+Guatemala,quetzaltenango,1300,2012,Washed / Wet,Blue-Green,250,83.75
+Colombia,huila,1775,2012,Washed / Wet,Green,175,83.5
+Mexico,chiapas,1425,2015,Washed / Wet,Green,250,81.83
+Guatemala,oriente,1219,2015,Washed / Wet,Green,250,81
+Honduras,marcala,1450,2016,Washed / Wet,Blue-Green,275,81.67
+Mexico,coatepec,1100,2012,Washed / Wet,Green,10,76.42
+Kenya,kirinyaga,1900,2014,Natural / Dry,Green,16,85.5
+Guatemala,nuevo oriente,1417,2012,Washed / Wet,Green,275,59.83
+Brazil,south of minas,934,2016,Natural / Dry,Green,320,83.92
+Colombia,huila,1775,2013,Washed / Wet,Green,125,82.83
+Costa Rica,tarrazu,1850,2016,Washed / Wet,Blue-Green,275,83.42
+Mexico,altotonga,1000,2012,Washed / Wet,Green,200,82.17
+Honduras,marcala,1350,2015,Washed / Wet,Green,275,82.17
+Colombia,huila,1750,2013,Washed / Wet,Green,250,82.58
+Colombia,huila,165,2014,Washed / Wet,Green,275,82.75
+Honduras,"comayagua, honduras",1500,2017,Washed / Wet,Green,1,82.42
+Guatemala,oriente,1400,2012,Washed / Wet,Green,250,80.25
+Colombia,huila,1750,2013,Washed / Wet,Green,250,82.5
+Thailand,chiangrai,1350,2015,Natural / Dry,Blue-Green,45,83.92
+Colombia,cundinamarca,1450,2012,Washed / Wet,Green,250,83.42
+Haiti,"dondon, haiti",825,2013,Washed / Wet,Blue-Green,300,81.5
+Honduras,ocotepeque,1650,2017,Washed / Wet,Green,15,80.5
+Colombia,huila,1900,2013,Washed / Wet,Green,250,82.92
+Mexico,"motozintla, chiapas",950,2012,Washed / Wet,Green,10,81
+China,yunnan,1700,2013,Washed / Wet,Green,1,80.42
+Mexico,siltepec el triunfo,1550,2014,Washed / Wet,Green,280,81.42
+Mexico,juquila,1250,2012,Washed / Wet,Green,40,82.25
+Brazil,south of minas,934,2016,Natural / Dry,Green,320,82.17
+Guatemala,oriente,1219,2014,Washed / Wet,Green,275,78.33
+Mexico,veracruz,1000,2012,Washed / Wet,Green,15,80.17
+Colombia,guayata,1600,2016,Washed / Wet,Green,43,81
+Mexico,totutla,1400,2012,Washed / Wet,Green,15,83.5
+Ethiopia,oromia,2000,2014,Natural / Dry,Green,320,89
+"Tanzania, United Republic Of",shizingo village,1620,2014,Washed / Wet,Green,10,84.25
+Colombia,huila,1775,2013,Washed / Wet,Green,250,82.42
+Guatemala,oriente,1650,2015,Washed / Wet,Green,100,83.17
+Kenya,nyeri,2000,2012,Washed / Wet,Blue-Green,235,84.67
+Mexico,talpa de allende,1200,2012,Washed / Wet,Blue-Green,10,79.08
+Colombia,huila,1625,2012,Washed / Wet,Green,250,83
+Nicaragua,jinotega,1100,2015,Washed / Wet,Green,275,81.25
+Brazil,monte carmelo,973,2016,Natural / Dry,Green,200,81.83
+Mexico,la yerbabuena,1400,2012,Washed / Wet,Green,20,83.92
+Brazil,south of minas,872,2016,Natural / Dry,Blue-Green,320,83
+Mexico,xalapa,1170,2012,Natural / Dry,Green,10,83.5
+China,yunnan,1100,2013,Washed / Wet,Green,1,84.5
+Guatemala,huehuetenango,1706,2013,Washed / Wet,Green,250,82.92
+Guatemala,oriente,1901,2017,Washed / Wet,Green,275,83.17
+Mexico,colima,1150,2012,Washed / Wet,Green,70,82.58
+United States,yauco region,853,2013,Washed / Wet,Blue-Green,17,83
+Mexico,tapachula,1800,2012,Washed / Wet,Green,250,81.33
+Guatemala,norte,3280,2015,Washed / Wet,Green,130,81.83
+El Salvador,apaneca,1500,2013,Washed / Wet,Blue-Green,275,85.58
+"Tanzania, United Republic Of",karatu northern,1600,2014,Washed / Wet,Green,39,83.42
+Malawi,mzuzu,1180,2014,Washed / Wet,Blue-Green,10,82.25
+Mexico,santo domingo cacalotepec,1480,2012,Washed / Wet,Green,300,84.08
+Kenya,central kenya,1650,2012,Washed / Wet,Blue-Green,150,84
+Uganda,kasese,1700,2012,Natural / Dry,Green,1,84.25
+Guatemala,oriente,157,2017,Washed / Wet,Green,25,81.83
+"Tanzania, United Republic Of",mbeya,1620,2014,Washed / Wet,Green,134,84.92
+Costa Rica,naranjo,1500,2014,Washed / Wet,Green,250,81.08
+Mexico,zihuatanejo de azueta,1300,2012,Washed / Wet,Green,74,82.42
+Honduras,san marcos,1350,2014,Natural / Dry,Green,275,81
+Colombia,antioquia,1300,2013,Washed / Wet,Green,250,82.75
+Guatemala,oriente,1219,2014,Washed / Wet,Green,250,81.5
+Guatemala,jalapa,1752,2012,Washed / Wet,Green,275,82.33
+Colombia,huila,1775,2013,Washed / Wet,Blue-Green,50,81.83
+Brazil,grama valley,1100,2012,Natural / Dry,Green,16,82.33
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,82.83
+Uganda,mbale,1775,2012,Washed / Wet,Blue-Green,320,84.67
+Kenya,nyeri,2000,2012,Washed / Wet,Blue-Green,235,84.5
+Guatemala,oriente,1219,2014,Washed / Wet,Green,275,77.33
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,78
+Costa Rica,tres rios,1300,2015,Washed / Wet,Blue-Green,275,82.08
+Costa Rica,central valley,1300,2014,Washed / Wet,Green,250,83.08
+Mexico,petatlan,1218,2012,Natural / Dry,Green,20,83.83
+Colombia,tolima,1200,2013,Washed / Wet,Green,1,86
+El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",1450,2013,Washed / Wet,Green,2,80.42
+Honduras,marcala,1350,2015,Washed / Wet,Green,275,80.75
+Honduras,comayagua,1500,2017,Washed / Wet,Green,275,84
+China,yunnan,1600,2015,Washed / Wet,Green,3,82.42
+Malawi,kakoma,1556,2014,Washed / Wet,Green,24,81.83
+Guatemala,huehuetenango,1116,2016,Washed / Wet,Green,275,84.17
+Mexico,veracruz,1250,2012,Washed / Wet,Green,250,82.08
+Honduras,central region,1450,2015,Natural / Dry,Green,275,80.75
+Honduras,intibuca,1350,2014,Natural / Dry,Green,275,76
+Uganda,kapchorwa eastern,1950,2013,Washed / Wet,Green,100,86.83
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,83.42
+Colombia,huila,1750,2013,Washed / Wet,Green,250,83
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,83.67
+Colombia,santander,1550,2015,Washed / Wet,Green,275,85.25
+Guatemala,san marcos,1700,2016,Washed / Wet,Green,50,82.42
+Colombia,huila,1750,2013,Washed / Wet,Green,275,83.25
+Guatemala,nuevo oriente,2100,2016,Washed / Wet,Green,275,83.25
+Guatemala,oriente,1219,2017,Washed / Wet,Green,25,82.58
+Mexico,atoyac de alvarez,1100,2012,Natural / Dry,Green,15,81.5
+Myanmar,ywar ngan,4287,2014,Natural / Dry,Green,1,80.25
+Guatemala,oriente,1219,2017,Washed / Wet,Green,25,82.75
+Cote d?Ivoire,cnra station of divo,200,2016,Washed / Wet,Blue-Green,2,79.33
+Colombia,huila,1775,2012,Washed / Wet,Green,275,82.58
+Guatemala,occidente,1320,2016,Washed / Wet,Green,250,79.17
+Mexico,"la concordia, chiapas",1400,2013,Washed / Wet,Green,310,79.75
+Guatemala,jalapa,1524,2014,Washed / Wet,Green,250,84.58
+Mexico,tapachula,1250,2012,Washed / Wet,Green,50,81.5
+Indonesia,bali,1250,2017,Washed / Wet,Green,2,82.5
+Guatemala,oriente,1219,2014,Washed / Wet,Green,250,83.83
+Uganda,eastern,1650,2013,Natural / Dry,Green,1,84.83
+Brazil,south of minas,1000,2012,Natural / Dry,Green,17,81.17
+Honduras,central region,1450,2015,Natural / Dry,Green,275,81.17
+Brazil,south of minas,1000,2011,Natural / Dry,Green,10,84.92
+Mexico,sierra madre occidental,1600,2016,Washed / Wet,Green,60,80.25
+"Tanzania, United Republic Of",mbinga,1550,2014,Washed / Wet,Green,77,82.67
+Guatemala,jalapa,1524,2014,Washed / Wet,Green,250,82.75
+Costa Rica,tarrazu,1900,2016,Washed / Wet,Green,36,85
+Honduras,san marcos,1450,2013,Natural / Dry,Green,275,83.17
+Colombia,pitalito,1000,2013,Natural / Dry,Green,250,83
+Guatemala,atitlan,1500,2014,Washed / Wet,Blue-Green,250,82.17
+Colombia,huila,1480,2014,Washed / Wet,Green,250,84
+Guatemala,oriente,1901,2017,Washed / Wet,Green,25,80.92
+Mexico,pochutla,1050,2012,Washed / Wet,Green,250,80.42
+"Tanzania, United Republic Of",arusha,1400,2014,Washed / Wet,Green,10,84.17
+Colombia,huila,1750,2013,Washed / Wet,Blue-Green,250,82.58
+Kenya,nyeri,1800,2013,Washed / Wet,Blue-Green,100,84.58
+Mexico,la concordia,1550,2012,Washed / Wet,Green,250,82.83
+Mexico,tapachula,1400,2012,Washed / Wet,Green,250,78.58
+Guatemala,huehuetenango,1700,2014,Washed / Wet,Blue-Green,36,81.25
+Mexico,la concordia,1550,2012,Washed / Wet,Green,250,80.42
+Mexico,zapotitlan de mendez,1100,2012,Washed / Wet,Green,10,82.5
+Colombia,huila,1750,2011,Washed / Wet,Green,250,82.42
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,79.83
+Colombia,huila,1775,2012,Washed / Wet,Green,275,82.5
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,82.33
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,80.17
+Guatemala,nuevo oriente,1450,2016,Washed / Wet,Green,275,82.25
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,82.33
+Myanmar,pyin oo lwin,3800,2015,Washed / Wet,Green,1,80.5
+Uganda,eastern uganda,1800,2016,Washed / Wet,Green,200,85
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,76.33
+Thailand,thailand,800,2012,Washed / Wet,Green,2,80
+Guatemala,oriente,1450,2012,Washed / Wet,Green,250,81.17
+Mexico,los angeles,1200,2012,Washed / Wet,Green,20,78.5
+Colombia,huila,1750,2012,Washed / Wet,Green,250,83.67
+Myanmar,"yauk sauk, shan state",914,2015,Natural / Dry,Green,2,80.25
+Mexico,chiapas,1022,2013,Washed / Wet,Green,275,79.75
+Malawi,mzuzu,1450,2014,Washed / Wet,Green,10,82.33
+Brazil,south of minas,950,2012,Washed / Wet,Green,44,82.33
+China,yunnan,1200,2013,Washed / Wet,Green,16,78
+Philippines,asia pacific,1600,2014,Washed / Wet,Blue-Green,4,82.92
+Mexico,veracruz,1170,2013,Washed / Wet,Green,10,82.42
+Thailand,thailand,800,2014,Washed / Wet,Green,1,82.5
+Thailand,chiang rai,1300,2012,Washed / Wet,Green,53,86.17
+Uganda,eastern uganda,1750,2016,Washed / Wet,Green,200,84.5
+Guatemala,"la reforma, san marcos",1371,2012,Washed / Wet,Green,275,83
+Mexico,zaragoza itundujia,1550,2012,Washed / Wet,Green,15,80.17
+Guatemala,nuevo oriente,1417,2012,Washed / Wet,Blue-Green,275,85.83
+Costa Rica,tarrazu,1550,2015,Washed / Wet,Green,130,82.33
+"Tanzania, United Republic Of",arusha,1400,2014,Washed / Wet,Blue-Green,10,80.58
+China,yunnan,1200,2015,Washed / Wet,Green,3,83.17
+Colombia,huila,1775,2014,Washed / Wet,Blue-Green,250,82.75
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,83.67
+Colombia,huila,1750,2011,Washed / Wet,Green,250,81.75
+Guatemala,huehuetenango,1128,2016,Washed / Wet,Green,275,83.58
+Mexico,coscomatepec,940,2012,Washed / Wet,Green,15,82
+Haiti,haiti,1000,2012,Washed / Wet,Green,1,80.75
+Guatemala,san marcos,1371,2016,Washed / Wet,Green,450,81.42
+Colombia,huila,1775,2014,Washed / Wet,Green,275,84.42
+Mexico,coatepec,1250,2012,Natural / Dry,Green,100,79.92
+Mexico,"la concordia, chiapas",1150,2013,Washed / Wet,Green,250,81.5
+Costa Rica,tarrazu,1850,2014,Washed / Wet,Blue-Green,320,84.17
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,81.58
+Guatemala,oriente,1402,2012,Washed / Wet,Green,250,82
+Honduras,intibuca,1350,2014,Washed / Wet,Green,275,79
+Mexico,veracruz,1170,2012,Washed / Wet,Green,10,82.25
+China,yunnan,1850,2013,Washed / Wet,Green,1,78.67
+Kenya,central kenya,1580,2012,Washed / Wet,Green,38,85
+Ethiopia,snnprg; kafa; telo woreda; shada kebele,1606,2014,Natural / Dry,Green,320,84.17
+Brazil,south of minas,1000,2012,Natural / Dry,Green,50,82
+Colombia,huila,1750,2011,Natural / Dry,Green,250,81.42
+Mexico,"la concordia, chiapas",1400,2013,Washed / Wet,Green,310,81.58
+Guatemala,san marcos,1524,2014,Washed / Wet,Green,200,83.17
+Guatemala,oriente,1219,2013,Natural / Dry,Green,250,83.42
+Thailand,thailand,800,2012,Washed / Wet,Green,2,81
+Mexico,veracruz,1200,2012,Washed / Wet,Green,275,81.67
+Mexico,la concordia,1550,2012,Washed / Wet,Green,250,79.58
+Mexico,oaxaca,1200,2012,Washed / Wet,Green,30,80.75
+Colombia,huila,1775,2012,Washed / Wet,Green,275,83.17
+United States,yauco region,853,2013,Washed / Wet,Green,18,83.75
+Colombia,huila,1775,2012,Washed / Wet,Green,100,82.75
+Colombia,huila,1750,2013,Washed / Wet,Green,250,83.83
+Costa Rica,central valley,1200,2013,Washed / Wet,Green,250,83
+Mexico,cordoba,1050,2012,Washed / Wet,Green,320,78.08
+Costa Rica,occidental,1200,2014,Washed / Wet,Green,250,71.75
+Guatemala,antigua,1500,2014,Natural / Dry,Green,26,82.92
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,83.25
+Kenya,kiambu,1600,2017,Washed / Wet,Green,150,80.92
+Brazil,cerrado,982,2016,Natural / Dry,Green,320,82.33
+Taiwan,"mountain ali, taiwan",1200,2012,Washed / Wet,Blue-Green,2,84.42
+Brazil,grama valley,1100,2012,Natural / Dry,Green,8,81.92
+Mexico,veracruz,1500,2012,Washed / Wet,Green,302,81.83
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,80.17
+Costa Rica,central valley,1200,2013,Washed / Wet,Green,250,83.33
+Mexico,santo reyes nopala,1300,2012,Washed / Wet,Green,30,81.08
+Costa Rica,san ramon,1300,2014,Washed / Wet,Blue-Green,250,85.33
+Malawi,southern- zomba,995,2014,Washed / Wet,Green,300,81.17
+Colombia,cundinamarca,1799,2016,Washed / Wet,Blue-Green,50,83.5
+Brazil,south of minas,934,2016,Natural / Dry,Blue-Green,320,82.67
+Malawi,mzuzu,1100,2014,Washed / Wet,Green,10,81.58
+Guatemala,"san lucas toliman, solola",1550,2013,Washed / Wet,Green,250,80.67
+"Tanzania, United Republic Of",ruvuma,1650,2015,Washed / Wet,Green,30,82.17
+Guatemala,antigua,1500,2014,Washed / Wet,Green,250,82.92
+"Tanzania, United Republic Of",kilimanjaro,1500,2014,Washed / Wet,Green,300,82.08
+Philippines,"davao city, region 11",1400,2014,Washed / Wet,Green,2,81.33
+Uganda,kapchorwa,1800,2013,Washed / Wet,Green,300,83
+Mexico,amatenango de la frontera,1600,2012,Washed / Wet,Green,250,81.5
+Colombia,pitalito,1000,2016,Natural / Dry,Green,250,83.5
+Malawi,mzuzu,1200,2014,Washed / Wet,Green,31,81.33
+Mexico,"el desmoronado, talpan de allende jalisco",1200,2014,Washed / Wet,Green,20,80.67
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,84.67
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,82.5
+Mexico,tapachula,1800,2012,Natural / Dry,Green,250,81.17
+Costa Rica,tres rios,1300,2015,Washed / Wet,Green,275,81.83
+Uganda,west nile,1400,2013,Washed / Wet,Green,1,82.92
+Colombia,huila,1775,2015,Washed / Wet,Green,275,83.58
+Mexico,"chocaman, veracruz",1140,2012,Washed / Wet,Green,20,74.33
+Colombia,huila,1775,2015,Washed / Wet,Green,275,84.25
+Colombia,huila,1750,2013,Washed / Wet,Blue-Green,250,83.75
+Ethiopia,oromia,1676,2014,Natural / Dry,Green,320,83.83
+Mexico,chiapas,1600,2013,Washed / Wet,Green,2,82.5
+"Tanzania, United Republic Of",mbinga,1550,2014,Washed / Wet,Blue-Green,320,81.17
+Mexico,tuxtla gutierrez,1650,2012,Washed / Wet,Green,100,81.67
+Costa Rica,tarrazu,185,2015,Washed / Wet,Blue-Green,240,80.67
+Laos,lao p.d.r.,1250,2015,Washed / Wet,Blue-Green,1,82
+Guatemala,oriente,1450,2012,Natural / Dry,Green,250,83.67
+Mexico,oaxaca,1100,2012,Washed / Wet,Green,42,81.75
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,79.08
+China,yunnan,1400,2015,Natural / Dry,Green,3,84.25
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,83.33
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,81.75
+Thailand,thailand,800,2013,Washed / Wet,Blue-Green,1,79.67
+Malawi,southern- zomba,995,2014,Washed / Wet,Blue-Green,100,80.67
+Honduras,marcala,1400,2015,Washed / Wet,Green,275,81.25
+"Tanzania, United Republic Of",moshi,168,2016,Washed / Wet,Green,320,83.17
+Uganda,eastern,1800,2013,Washed / Wet,Green,100,83.58
+Philippines,"bukidnon, mindanao, philppines",1200,2015,Washed / Wet,Blue-Green,250,82.92
+Colombia,huila,1750,2013,Washed / Wet,Green,275,83.75
+Guatemala,antigua,1500,2015,Washed / Wet,Green,250,83
+Mexico,tapachula,1800,2012,Washed / Wet,Green,250,82.08
+Mexico,chiapas,1300,2013,Washed / Wet,Green,450,81.92
+Mexico,veracruz,1338,2013,Washed / Wet,Blue-Green,150,82.25
+Colombia,pereira,1200,2013,Washed / Wet,Green,250,79.33
+Colombia,huila,1750,2013,Washed / Wet,Green,250,83.5
+Guatemala,antigua,1500,2016,Washed / Wet,Green,100,83.83
+Mexico,coatepec,1250,2012,Washed / Wet,Green,15,82.08
+Mexico,xicotepec de juarez,1100,2012,Washed / Wet,Green,48,83.67
+"Tanzania, United Republic Of","manyara, karatu",1700,2014,Washed / Wet,Green,250,80.92
+Nicaragua,jinotega,1050,2015,Natural / Dry,Green,275,79.5
+Guatemala,antigua,1500,2014,Washed / Wet,Green,26,83.25
+Guatemala,jalapa,1524,2014,Washed / Wet,Green,250,80.92
+Brazil,south of minas,934,2016,Natural / Dry,Green,320,83.67
+Honduras,comayagua,1500,2015,Washed / Wet,Blue-Green,200,82.17
+Guatemala,huehuetenango,1859,2013,Washed / Wet,Green,250,80.5
+Honduras,marcala,1450,2014,Washed / Wet,Green,275,69.17
+Guatemala,santa rosa,1219,2017,Washed / Wet,Green,80,81.67
+Colombia,la plata,1775,2012,Washed / Wet,Green,175,83.25
+Colombia,huila,1800,2012,Washed / Wet,Green,250,84.58
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,74.33
+Honduras,"siguatepeque, comayagua",1450,2015,Natural / Dry,Green,275,80.75
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,78.33
+Mexico,la yerba,1296,2014,Washed / Wet,Green,10,82.42
+"Tanzania, United Republic Of",mbinga,1653,2014,Washed / Wet,Blue-Green,180,83.17
+Mexico,veracruz,1320,2012,Washed / Wet,Green,20,78.75
+Guatemala,oriente,1219,2014,Washed / Wet,Green,250,79
+Colombia,huila,175,2012,Washed / Wet,Green,250,83.25
+"Tanzania, United Republic Of",kilimanjaro,1650,2015,Washed / Wet,Green,2,82
+Honduras,comayagua,1400,2017,Washed / Wet,Green,275,81.5
+Colombia,huila supremo,1750,2013,Washed / Wet,Green,250,83.67
+Honduras,comayagua,1400,2014,Natural / Dry,Green,275,81.67
+Guatemala,oriente,1219,2013,Washed / Wet,Green,250,79.42
+Vietnam,vietnam,1040,2014,Washed / Wet,Blue-Green,1,81.75
+United States,yauco region,853,2013,Washed / Wet,Green,18,79.08
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,79.67
+Mexico,colima,1200,2012,Washed / Wet,Green,60,82.17
+Colombia,huila,442,2015,Natural / Dry,Green,250,84.33
+Ethiopia,oromia,1775,2014,Natural / Dry,Green,320,86.25
+"Tanzania, United Republic Of","iwala village, mbeya rural",1456,2014,Washed / Wet,Green,54,81.08
+Uganda,kapchorwa,1950,2013,Washed / Wet,Green,150,85.42
+Colombia,huila,442,2012,Natural / Dry,Green,250,82.33
+Colombia,santander,1650,2015,Washed / Wet,Green,275,83.33
+Honduras,occidental,1400,2014,Washed / Wet,Green,275,80.58
+Mexico,temaxcalapa,1100,2012,Washed / Wet,Green,30,81.5
+Brazil,south of minas,934,2016,Natural / Dry,Blue-Green,320,82.33
+Guatemala,acatenango,1600,2015,Washed / Wet,Green,120,84.67
+Mexico,veracruz,1170,2012,Washed / Wet,Green,10,82.33
+Ethiopia,sidamo,1800,2017,Natural / Dry,Green,320,84
+Mexico,zentla,750,2012,Washed / Wet,Green,50,79.33
+Costa Rica,brunca,1100,2013,Washed / Wet,Blue-Green,275,79.75
+Mexico,coatepec,750,2012,Washed / Wet,Green,15,83
+Ethiopia,oromia,1900,2015,Natural / Dry,Green,320,85.5
+Kenya,meru county,1700,2017,Washed / Wet,Blue-Green,200,83.67
+Mexico,chiapas,1300,2013,Washed / Wet,Green,400,79.92
+Mexico,coatepec,1300,2012,Washed / Wet,Green,23,77.5
+Mexico,chiapas,1500,2013,Washed / Wet,Green,45,83.17
+Mexico,coatepec,1250,2012,Washed / Wet,Green,20,80
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,84.5
+Uganda,eastern,1650,2013,Washed / Wet,Green,1,82.92
+Guatemala,huehuetenango,1706,2015,Washed / Wet,Green,275,80.75
+Mexico,jaltenango,1100,2012,Washed / Wet,Green,250,79.92
+Colombia,huila,1775,2012,Washed / Wet,Green,275,83
+Guatemala,santa rosa,1800,2017,Washed / Wet,Green,275,82.75
+Ethiopia,aricha,1700,2014,Natural / Dry,Green,100,85.08
+Mexico,xalapa,1320,2012,Washed / Wet,Green,14,87.17
+Colombia,cundinamarca,1550,2013,Washed / Wet,Green,250,79.5
+Mexico,xicotepec de juarez,900,2012,Washed / Wet,Blue-Green,48,83.92
+Costa Rica,tarrazu,1700,2016,Washed / Wet,Blue-Green,150,84.17
+Guatemala,acatenango,1524,2012,Washed / Wet,Green,125,84.67
+Colombia,huila,442,2015,Natural / Dry,Green,275,83.42
+Kenya,nyeri,1754,2014,Natural / Dry,Blue-Green,12,86.08
+Honduras,san marcos,1450,2014,Washed / Wet,Green,275,81.33
+Kenya,kenya,250,2013,Washed / Wet,Green,300,84.17
+Guatemala,jalapa,1752,2012,Washed / Wet,Green,275,81.67
+Colombia,cundinamarca,2136,2012,Natural / Dry,Green,250,83.58
+Malawi,mzuzu,2500,2014,Washed / Wet,Blue-Green,16,82
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,77.42
+Guatemala,"sacatepequez, guatemala",1524,2013,Washed / Wet,Green,250,81.25
+Mexico,chiapas,1560,2013,Washed / Wet,Green,49,82.42
+Honduras,intibuca,1350,2014,Washed / Wet,Green,275,73.42
+Brazil,south of minas,1250,2011,Natural / Dry,Green,3,86.92
+Guatemala,oriente,1310,2012,Washed / Wet,Green,250,83.67
+Indonesia,ijen,1400,2012,Washed / Wet,Green,10,81.5
+Guatemala,"san lucas toliman, solola",1550,2014,Washed / Wet,Green,250,81.42
+Costa Rica,tarrazu,1850,2016,Washed / Wet,Blue-Green,250,82.75
+Kenya,muranga,1800,2013,Washed / Wet,Blue-Green,320,86.25
+Colombia,huila,1775,2014,Washed / Wet,Green,275,83.92
+China,yunnan,1100,2015,Natural / Dry,Green,3,82.75
+Colombia,huila,1750,2013,Washed / Wet,Green,250,83.5
+Colombia,huila,1775,2015,Washed / Wet,Blue-Green,275,84.17
+Mexico,adolfo lopez mateos,1100,2012,Washed / Wet,Green,200,81
+"Tanzania, United Republic Of",mbeya,1600,2014,Washed / Wet,Green,65,84.25
+Mexico,petatlan,1248,2012,Washed / Wet,Green,50,77.92
+Mexico,veracruz,1650,2012,Washed / Wet,Green,30,81.92
+Guatemala,santa rosa,1219,2017,Washed / Wet,Green,50,81.92
+Mexico,chiapas,1550,2013,Washed / Wet,Green,32,82.75
+Costa Rica,tarrazu,1850,2015,Washed / Wet,Blue-Green,245,83.5
+"Tanzania, United Republic Of",karatu ngorogoro,1700,2014,Washed / Wet,Green,100,81.25
+Honduras,comayagua,1400,2016,Washed / Wet,Green,285,83.67
+Ethiopia,oromia,1900,2015,Washed / Wet,Green,320,85.42
+Kenya,central kenya,1200,2012,Washed / Wet,Green,300,85.33
+Guatemala,huehuetenango,1099,2015,Washed / Wet,Green,275,84.25
+Guatemala,acatenango,1524,2012,Washed / Wet,Green,150,85.83
+Costa Rica,san ramon,1300,2014,Washed / Wet,Green,250,80.75
+China,menglian,1500,2015,Washed / Wet,Green,3,82.75
+Guatemala,atitlan,1400,2013,Washed / Wet,Green,250,82.42
+"Tanzania, United Republic Of",meru,1350,2014,Washed / Wet,Green,1,82
+Colombia,huila,442,2016,Washed / Wet,Green,600,83.42
+Costa Rica,central valley,1300,2013,Washed / Wet,Green,250,82
+Mexico,"la concordia, chiapas",1400,2013,Washed / Wet,Green,310,81.67
+Colombia,huila,1775,2015,Washed / Wet,Green,248,84.25
+Costa Rica,san ramon,1300,2014,Washed / Wet,Green,250,83.33
+Colombia,south huila,1625,2012,Washed / Wet,Blue-Green,250,82.75
+Guatemala,oriente,1310,2013,Washed / Wet,Green,250,80.33
+Guatemala,san marcos,1700,2017,Washed / Wet,Green,50,82.83
+Colombia,huila,1800,2013,Washed / Wet,Green,275,84.33
+Mexico,ixhuatlan del cafe,1186,2012,Washed / Wet,Green,60,80.92
+Honduras,comayagua,1400,2016,Natural / Dry,Green,275,80.25
+Mexico,escuitla,1300,2012,Washed / Wet,Green,10,80.08
+Guatemala,santa rosa,1219,2017,Washed / Wet,Green,50,82.75
+Guatemala,"el tumbador, san marcos",1371,2015,Washed / Wet,Green,200,83
+Colombia,huila,1550,2014,Washed / Wet,Green,250,83.75
+Guatemala,nuevo oriente,1550,2015,Washed / Wet,Green,275,79.17
+Mexico,coatepec,1250,2012,Washed / Wet,Green,20,73.83
+Brazil,south of minas,1000,2012,Natural / Dry,Green,50,83.17
+Guatemala,oriente,1901,2017,Washed / Wet,Green,25,81.92
+Kenya,central kenya,1600,2012,Washed / Wet,Green,20,85.33
