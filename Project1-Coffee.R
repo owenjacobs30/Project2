@@ -6,6 +6,7 @@ library(ggplot2)
 Project1_coffee = read.csv("Project1_coffee.csv")
 
 #I also think this should be an R markdown file and not an R file. 
+#I think for the comments they should include a little bit more explanation because it's kind of hard to understand what is going on especially because there is code used that has not been learned in class. 
 
 # Calculate the mean rating
 mean(Project1_coffee$Rating, na.rm=TRUE)
