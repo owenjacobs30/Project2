@@ -2,6 +2,11 @@ library(ggplot2)
 
 #BASIC SUMMARY STATISTICS FOR COFFEE RATINGS
 
+#I added code to read in the csv file. 
+Project1_coffee = read.csv("Project1_coffee.csv")
+
+#I also think this should be an R markdown file and not an R file. 
+
 # Calculate the mean rating
 mean(Project1_coffee$Rating, na.rm=TRUE)
 # Calculate the median rating
